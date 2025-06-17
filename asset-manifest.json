@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Port/static/css/main.1edc4bc3.css",
-    "main.js": "/Port/static/js/main.32e5f06d.js",
+    "main.js": "/Port/static/js/main.82bc4991.js",
     "static/css/487.bb36206c.chunk.css": "/Port/static/css/487.bb36206c.chunk.css",
     "static/js/487.7ae187c0.chunk.js": "/Port/static/js/487.7ae187c0.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/Port/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.567a0b93.chunk.js": "/Port/static/js/990.567a0b93.chunk.js",
     "static/media/hack1.png": "/Port/static/media/hack1.32baf24490d158531c75.png",
     "static/media/profile.webp": "/Port/static/media/profile.08dafbec315a9b563ab5.webp",
-    "static/media/resume.pdf": "/Port/static/media/resume.02f7643aa8d38a4508ba.pdf",
+    "static/media/resume.pdf": "/Port/static/media/resume.3766289449ff76f0a00d.pdf",
     "static/media/gurukul1.png": "/Port/static/media/gurukul1.30a0cc88f2c27e831f7f.png",
     "static/media/Montserrat-Regular.ttf": "/Port/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/coer_logo.png": "/Port/static/media/coer_logo.c55926042485daf1772f.png",
@@ -22,7 +22,7 @@
     "index.html": "/Port/index.html",
     "static/media/talksCardBack.svg": "/Port/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.1edc4bc3.css.map": "/Port/static/css/main.1edc4bc3.css.map",
-    "main.32e5f06d.js.map": "/Port/static/js/main.32e5f06d.js.map",
+    "main.82bc4991.js.map": "/Port/static/js/main.82bc4991.js.map",
     "487.bb36206c.chunk.css.map": "/Port/static/css/487.bb36206c.chunk.css.map",
     "487.7ae187c0.chunk.js.map": "/Port/static/js/487.7ae187c0.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/Port/static/css/990.c6a7ee28.chunk.css.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.1edc4bc3.css",
-    "static/js/main.32e5f06d.js"
+    "static/js/main.82bc4991.js"
   ]
 }
