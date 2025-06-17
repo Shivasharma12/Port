@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Port/static/css/main.1edc4bc3.css",
+    "main.js": "/Port/static/js/main.32e5f06d.js",
+    "static/css/487.bb36206c.chunk.css": "/Port/static/css/487.bb36206c.chunk.css",
+    "static/js/487.7ae187c0.chunk.js": "/Port/static/js/487.7ae187c0.chunk.js",
+    "static/css/990.c6a7ee28.chunk.css": "/Port/static/css/990.c6a7ee28.chunk.css",
+    "static/js/990.567a0b93.chunk.js": "/Port/static/js/990.567a0b93.chunk.js",
+    "static/media/hack1.png": "/Port/static/media/hack1.32baf24490d158531c75.png",
+    "static/media/profile.webp": "/Port/static/media/profile.08dafbec315a9b563ab5.webp",
+    "static/media/resume.pdf": "/Port/static/media/resume.02f7643aa8d38a4508ba.pdf",
+    "static/media/gurukul1.png": "/Port/static/media/gurukul1.30a0cc88f2c27e831f7f.png",
+    "static/media/Montserrat-Regular.ttf": "/Port/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/coer_logo.png": "/Port/static/media/coer_logo.c55926042485daf1772f.png",
+    "static/media/Agustina.woff": "/Port/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/Port/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/Port/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/Port/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/fly.png": "/Port/static/media/fly.510f2ac75475f7bcb96e.png",
+    "static/media/skill.svg": "/Port/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/YHills2.webp": "/Port/static/media/YHills2.4249387b012e6016636b.webp",
+    "index.html": "/Port/index.html",
+    "static/media/talksCardBack.svg": "/Port/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.1edc4bc3.css.map": "/Port/static/css/main.1edc4bc3.css.map",
+    "main.32e5f06d.js.map": "/Port/static/js/main.32e5f06d.js.map",
+    "487.bb36206c.chunk.css.map": "/Port/static/css/487.bb36206c.chunk.css.map",
+    "487.7ae187c0.chunk.js.map": "/Port/static/js/487.7ae187c0.chunk.js.map",
+    "990.c6a7ee28.chunk.css.map": "/Port/static/css/990.c6a7ee28.chunk.css.map",
+    "990.567a0b93.chunk.js.map": "/Port/static/js/990.567a0b93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1edc4bc3.css",
+    "static/js/main.32e5f06d.js"
+  ]
+}
